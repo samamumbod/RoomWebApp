@@ -1,5 +1,8 @@
 package com.frankmoley.lil.sebt.landon.root_web_app.models;
 
+/**
+ * An enum class
+ */
 public enum Position {
     HOUSEKEEPING, FRONT_DESK, SECURITY, CONCIERGE;
 

@@ -2,6 +2,13 @@ package com.frankmoley.lil.sebt.landon.root_web_app.models;
 
 import javax.persistence.*;
 
+
+/**
+ * The model of the Room database, model to be fed to the view and
+ * object relational mapping
+ * @author Mumbod
+ */
+
 @Entity
 @Table(name = "EMPLOYEE")
 public class StaffMember {

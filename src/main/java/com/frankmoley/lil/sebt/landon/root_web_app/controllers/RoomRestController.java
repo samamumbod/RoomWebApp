@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+/**
+ * Rest API that Reads all rooms
+ */
 @RestController
 @RequestMapping("/api/rooms")
 public class RoomRestController {

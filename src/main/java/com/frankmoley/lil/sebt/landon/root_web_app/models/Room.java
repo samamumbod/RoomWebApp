@@ -1,14 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.frankmoley.lil.sebt.landon.root_web_app.models;
 
 import javax.persistence.*;
 
 /**
- *
+ * The model of the Room database, model to be fed to the view and
+ * object relational mapping
  * @author Mumbod
  */
 
